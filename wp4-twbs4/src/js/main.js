@@ -1,3 +1,13 @@
+
+// import required bootstrap plugins individually for your project project
+
+
 import 'bootstrap/js/dist/util';
 import 'bootstrap/js/dist/dropdown';
-alert('hi okay!');
+
+/*
+ // or import whole bootstrap
+ import 'bootstrap';
+*/
+
+alert('hi!');
